@@ -1,3 +1,4 @@
+#everything is mixed up will be fixed as soon as possible. sorry for inconvinience.
 # tensorFlow
 tensorFlow implemented to Unity using the ML-Agents package. The repository demonstrate machine learning with the help of a simple Pong game. 
 # Pong automated with Tensorflow.
