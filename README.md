@@ -12,14 +12,8 @@ Pong is one of the games that you must have played atleast one if there were any
   - Unity(2018.1 or higher)
   - ml-agnents by Unity
 ### Installation
-
-Install the dependencies using pip. Go to the folder
-`tensorFlow/Pong/Assets/ml-agents-master/python/`
-
-
-```sh
-$ pip install .
-```
+Clome the ml-agents repo by Unity.
+Install the dependencies using pip or conda. can be found in ml agents/python.
 
 ### How to train?
 
