@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/ml-agents-master/unity-environment/Assets/ML-Agents/Examples/Pong/SampleScene.unity
-  isLoaded: 1
-  isActive: 1
