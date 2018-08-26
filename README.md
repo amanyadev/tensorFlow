@@ -1,6 +1,6 @@
 #everything is mixed up will be fixed as soon as possible. sorry for inconvinience.
 # tensorFlow
-## Use the tensor(build) for training testing. The source files need fix. However all scripts and prefabs are inside. The file wont load in editor correctly. 
+### Use the tensor(build) for training testing. The source files need fix. However all scripts and prefabs are inside. The file wont load in editor correctly. Will be fixed so that you can play with the source code. 
 tensorFlow implemented to Unity using the ML-Agents package. The repository demonstrate machine learning with the help of a simple Pong game. 
 # Pong automated with Tensorflow.
 
@@ -26,3 +26,4 @@ to learn more practically refer to Holistic3d's Youtube channel videos on Settin
 yadav.aman099@gmail.com
 Tell me more about yourself. If you are cloning my repository:)
 Thanks for visiting/downloading. 
+### Happy Gaming :)
