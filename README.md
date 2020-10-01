@@ -1,4 +1,5 @@
-#everything is mixed up will be fixed as soon as possible. sorry for inconvinience.
+Documentation work is still in progess. We appreciate your paitence.
+
 # tensorFlow
 ### Use the tensor(build) for training testing. The source files need fix. However all scripts and prefabs are inside. The file wont load in editor correctly. Will be fixed so that you can play with the source code. 
 tensorFlow implemented to Unity using the ML-Agents package. The repository demonstrate machine learning with the help of a simple Pong game. 
